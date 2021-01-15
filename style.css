@@ -1,0 +1,51 @@
+body{
+    font-family: 'Barlow Condensed', sans-serif;
+}
+header{
+    background-color: rgb(247, 233, 233);
+    padding-bottom: 100px;
+    
+}
+.button img{
+
+    color: white;
+}
+
+}
+.navbar{
+    height: 50px;
+}
+.logo{
+    width: 60%;
+}
+.menu{
+    width: 40%;
+}
+nav li{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    
+}
+nav{
+    list-style-position: ;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(48, 3, 80);
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgb(255, 110, 6);
+}
+.des-highlight{
+    color: rgb(48, 3, 80);
+}
+.img-card-title{
+    color: rgb(79, 7, 131);
+}
+.dollar-highlight{
+    color: tomato;
+}
